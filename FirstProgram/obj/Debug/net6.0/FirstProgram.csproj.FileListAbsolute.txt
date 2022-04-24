@@ -1,0 +1,15 @@
+C:\Users\neet\Documents\C#\FirstProgram\bin\Debug\net6.0\FirstProgram.exe
+C:\Users\neet\Documents\C#\FirstProgram\bin\Debug\net6.0\FirstProgram.deps.json
+C:\Users\neet\Documents\C#\FirstProgram\bin\Debug\net6.0\FirstProgram.runtimeconfig.json
+C:\Users\neet\Documents\C#\FirstProgram\bin\Debug\net6.0\FirstProgram.dll
+C:\Users\neet\Documents\C#\FirstProgram\bin\Debug\net6.0\FirstProgram.pdb
+C:\Users\neet\Documents\C#\FirstProgram\obj\Debug\net6.0\FirstProgram.csproj.AssemblyReference.cache
+C:\Users\neet\Documents\C#\FirstProgram\obj\Debug\net6.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neet\Documents\C#\FirstProgram\obj\Debug\net6.0\FirstProgram.AssemblyInfoInputs.cache
+C:\Users\neet\Documents\C#\FirstProgram\obj\Debug\net6.0\FirstProgram.AssemblyInfo.cs
+C:\Users\neet\Documents\C#\FirstProgram\obj\Debug\net6.0\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\neet\Documents\C#\FirstProgram\obj\Debug\net6.0\FirstProgram.dll
+C:\Users\neet\Documents\C#\FirstProgram\obj\Debug\net6.0\refint\FirstProgram.dll
+C:\Users\neet\Documents\C#\FirstProgram\obj\Debug\net6.0\FirstProgram.pdb
+C:\Users\neet\Documents\C#\FirstProgram\obj\Debug\net6.0\FirstProgram.genruntimeconfig.cache
+C:\Users\neet\Documents\C#\FirstProgram\obj\Debug\net6.0\ref\FirstProgram.dll
