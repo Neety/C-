@@ -122,6 +122,6 @@
 // short shortMin = short.MinValue;
 // Console.WriteLine($"The range of short type is {shortMin} to {shortMax}");
 
-// double radius = 2.50;
-// double area = Math.PI * radius * radius;
-// Console.WriteLine(area);
+double radius = 2.50;
+double area = Math.PI * radius * radius;
+Console.WriteLine(area);
